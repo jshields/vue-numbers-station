@@ -10,6 +10,8 @@ new Vue({
     }
   },
   created () {
-    setInterval(this.update, 1800)
+    // or 2400 for 25 "tones" per minute
+    // IDEA may want to add actual audio in the future
+    setInterval(this.update, 1800);
   }
 })

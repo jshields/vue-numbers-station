@@ -1,0 +1,18 @@
+[v-cloak] {
+    display: none;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+#app {
+    height: 100%;
+    width: 100%;
+    color: #ffffcc;
+    background-color: #113311;
+    font-family: monospace, serif;
+    font-size: 6em;
+    text-align: center;
+}

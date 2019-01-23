@@ -1,4 +1,4 @@
-# vue_numbers_station
+# Vue numbers station example
 
 "VUE-76" numbers station, inspired by [UVB-76](https://en.wikipedia.org/wiki/UVB-76)
 

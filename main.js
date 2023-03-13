@@ -20,7 +20,7 @@ const speak = (text) => {
 
   utter.voice = getRussianVoice();
 
-  speechSynthesis.speak(utterance);
+  speechSynthesis.speak(utter);
 };
 
 const randomNumber = () => Math.floor(Math.random() * Math.floor(100));
